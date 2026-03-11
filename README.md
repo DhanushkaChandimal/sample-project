@@ -1,0 +1,1 @@
+A sample repository for Git branching practice.
