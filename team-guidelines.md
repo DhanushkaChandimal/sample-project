@@ -66,3 +66,26 @@ Replaces the previous session-based approach used earlier.
 - Explain why the change was made, not just how
 - Keep each commit focused on one logical change
 - Avoid vague messages like `update`, `fix bug`, or `changes`
+
+---
+
+## Pull Request Process
+
+A Pull Request (PR) is used to propose merging changes from a feature branch
+into the main branch so the team can review the code before it is added to the
+project.
+
+### Steps
+
+- Create and push a feature branch with your changes
+- Open a Pull Request on GitHub
+- Review the commits and file changes
+- Write a clear title and description explaining the changes
+- Request a review from team members
+- Update the PR if changes are requested
+- Merge the PR after approval
+
+### Why PRs Matter
+
+PRs help maintain code quality, strengthen collaboration, and keep project
+history clear and reviewable.
